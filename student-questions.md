@@ -8,3 +8,5 @@ when do things actually get removed and deleted for good, on my machine and on t
 How do i get to dangling commits on a remote?
 
 When you rebase and hit a conflict and resolve, where is that change applied?  at the end on the last commit or on each commit?
+
+Similar to push "matching" is there a way to automatically pull from all branches at once, assuming they can all fast forward?
